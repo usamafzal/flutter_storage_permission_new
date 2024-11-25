@@ -1,16 +1,51 @@
-# flutter_storage_permission_new
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flutter Storage Permission with SAF</title>
+</head>
+<body>
+  <h1>Flutter Storage Permission with SAF (Storage Access Framework)</h1>
+  <p>
+    A <strong>modern Flutter example</strong> demonstrating how to implement 
+    <strong>Storage Access Framework (SAF)</strong> for file and directory access in compliance with Android 11+ storage policies.
+  </p>
 
-A new Flutter project.
+  <h2>🚀 Features:</h2>
+  <ul>
+    <li>Uses SAF to access files and directories without intrusive permissions.</li>
+    <li>Saves files securely in user-selected directories.</li>
+    <li>Ensures compliance with Android’s latest privacy standards.</li>
+    <li>Clean and user-friendly UI built with Flutter.</li>
+  </ul>
 
-## Getting Started
+  <h2>🔑 Why SAF?</h2>
+  <p>
+    Google’s SAF ensures apps only access what they need, enhancing user privacy and future-proofing your app. 
+    This example shows you how to implement it effortlessly.
+  </p>
 
-This project is a starting point for a Flutter application.
+  <h2>📥 How to Use:</h2>
+  <ol>
+    <li>Clone this repo.</li>
+    <li>Run the app on an Android device (API 21+).</li>
+    <li>Test directory selection and file-saving functionality.</li>
+  </ol>
 
-A few resources to get you started if this is your first Flutter project:
+  <h2>🛠 Technologies Used:</h2>
+  <ul>
+    <li>Flutter</li>
+    <li>File Picker Package</li>
+    <li>Dart</li>
+  </ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <p>
+    Feel free to explore, modify, and integrate SAF into your projects! 🚀
+  </p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <footer>
+    <p>#AndroidDevelopment #Flutter #StorageAccessFramework #PrivacyFirst</p>
+  </footer>
+</body>
+</html>
