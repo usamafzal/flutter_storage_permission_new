@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flutter Storage Permission with SAF</title>
 </head>
 <body>
   <h1>Flutter Storage Permission with SAF (Storage Access Framework)</h1>
